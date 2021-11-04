@@ -2,7 +2,6 @@
 import { AppBar, Toolbar, makeStyles, Button } from "@material-ui/core";
 import { NavLink } from "react-router-dom";
 import logoImg from "../imgs/Logo-Test.png";
-import classes from "./header.module.css";
 
 const useStyles = makeStyles(() => ({
   header: {
